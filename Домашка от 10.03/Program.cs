@@ -2,3 +2,4 @@
 
 Console.WriteLine("выжечь на сердце");
 Console.WriteLine("железом раскалённым");
+Console.WriteLine("четвре горячих слова");
