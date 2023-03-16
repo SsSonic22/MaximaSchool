@@ -1,0 +1,15 @@
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\bin\Debug\net6.0\Домашка от 14.03 числа.exe
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\bin\Debug\net6.0\Домашка от 14.03 числа.deps.json
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\bin\Debug\net6.0\Домашка от 14.03 числа.runtimeconfig.json
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\bin\Debug\net6.0\Домашка от 14.03 числа.dll
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\bin\Debug\net6.0\Домашка от 14.03 числа.pdb
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.csproj.AssemblyReference.cache
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.AssemblyInfoInputs.cache
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.AssemblyInfo.cs
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.csproj.CoreCompileInputs.cache
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.dll
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\refint\Домашка от 14.03 числа.dll
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.pdb
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\Домашка от 14.03 числа.genruntimeconfig.cache
+C:\Users\ospvs\RiderProjects\MaximaSchool\Домашка от 14.03 числа\obj\Debug\net6.0\ref\Домашка от 14.03 числа.dll
